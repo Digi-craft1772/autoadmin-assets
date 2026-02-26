@@ -7,18 +7,14 @@
   "background_color": "#001f3f",
   "theme_color": "#00e5ff",
   "orientation": "portrait",
-  "icons":[{"src":"https://raw.githubusercontent.com/Digi-craft1772/autoadmin-ai/refs/heads/main/icon-512.png.png?token=GHSAT0AAAAAADWFJX75FAO53GYFNGAKSQHQ2M7HJKQ",
+  "icons":[{"src":"https://raw.githubusercontent.com/Digi-craft1772/autoadmin-assets/refs/heads/main/icon-512.png.png",
               "type":"image/png",
               "sizes":"512*512"
-
-              "?raw=true"
             },
-           {"src":"https://raw.githubusercontent.com/Digi-craft1772/autoadmin-ai/refs/heads/main/icon-192.png.png?token=GHSAT0AAAAAADWFJX75WFKYEWGRW627BR6A2M7HVSQ",
+
+           {"src":"https://raw.githubusercontent.com/Digi-craft1772/autoadmin-assets/refs/heads/main/icon-192.png.png",
                "type":"image/png",
                "sizes":"1024*500"
-               
-               "?raw=true"
-            }
-            ]
+               }]
 
 }
